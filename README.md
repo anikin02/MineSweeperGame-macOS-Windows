@@ -33,4 +33,4 @@ macOS разработчик - [Аникин Данил](https://github.com/anik
 
 Windows разработчик - [Матвеев Глеб](https://github.com/m4ttyV)
 
-Тестировщик - [Борщевский Иван]()
+Тестировщик - [Борщевский Иван](https://github.com/Superpuperbober)
